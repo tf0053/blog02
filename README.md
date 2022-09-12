@@ -19,3 +19,5 @@ The static site will be output to `out/`.
 ## Config
 
 Edit your theme config on `theme.config.ts`
+
+TEST
